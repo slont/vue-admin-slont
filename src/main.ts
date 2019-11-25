@@ -5,6 +5,7 @@ import router from './router'
 import store from './store'
 import mixin from './mixins/common'
 import './assets/sass/global.sass'
+import './plugins/buefy'
 import './plugins/v-button'
 import './plugins/v-modal'
 
